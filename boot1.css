@@ -1,0 +1,44 @@
+.image{
+    background-image:url(https://img.freepik.com/free-photo/little-curious-child-studying-modern-technology-while-lying-floor-tummy-against-window-toddler-using-laptop-home-infant-wearing-white-t-shirt_176532-15463.jpg?size=626&ext=jpg&ga=GA1.2.246222500.1656593910);
+    background-size:cover;
+    padding:100px;
+}
+.b{
+
+    background-color:blue;
+    width:40vw;
+    height:50vh;
+}
+.c{
+    background-color:orange;
+    width:40vw;
+    height:50vh;
+}
+.d{
+    width:17vw;
+    background-color:orange;
+    height:50vh;
+}
+
+.e{
+    width:17vw;
+    background-color:white;
+    height:50vh;
+}
+.f{
+    width:17vw;
+    background-color:green;
+    height:50vh;
+}
+.borders{
+    border-color:pink;
+    border-style:solid;
+    border-width:20px;
+}
+.fb{
+font-size:100px;
+text-align:center;
+font-size:35vh;
+margin:8vh;
+
+}
